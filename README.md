@@ -7,3 +7,4 @@ meidebi_crawl    -    [爬取购物网站没得比，并存入excel](https://git
 
 python_meituan   -    [python抢美团红包](https://github.com/anduoliya/Baidu_firstSpider/blob/master/python_meituan.py)
 
+Check-for-updates - [每日检查软件更新](https://github.com/anduoliya/some_spider/blob/master/Check_for_updates.py)
