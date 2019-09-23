@@ -1,2 +1,2 @@
-# Baidu_firstSpider
-爬取百度百科
+# README
+firstSpider - 爬取百度百科
